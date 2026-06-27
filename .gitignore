@@ -1,0 +1,9 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.pkl
+*.log
+.env
+node_modules/
+Thumbs.db
